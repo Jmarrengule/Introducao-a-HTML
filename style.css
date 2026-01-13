@@ -15,3 +15,15 @@ div {
     font-size: xx-large;
     vertical-align: auto;
 }
+.ninja {
+    color: lawngreen;
+    background-color: rgb(134, 131, 128);
+    background-position: 0cqb;
+    column-count: 4;
+}
+
+form {
+    color: cyan;
+    background-color: rgb(134, 131, 128);
+    text-align: center;
+}
